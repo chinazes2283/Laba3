@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Віртуальні середовища
+venv/
+.venv/
+env/
+
+# Збірка та пакування
+build/
+dist/
+*.egg-info/
+
+# Інструменти перевірки типів і тестів
+.mypy_cache/
+.pytest_cache/
+
+# Документація (Sphinx)
+docs/_build/
+
+# IDE
+.vscode/
+.idea/
+
+# ОС
+.DS_Store
+Thumbs.db
+
+# Змінні середовища та логи
+.env
+*.log
